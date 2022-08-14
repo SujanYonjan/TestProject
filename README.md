@@ -3,7 +3,7 @@
 Steps to be Followed For Project (url: https://github.com/SujanYonjan/TestProject.git)
 1.Clone the Project From the Github to your Desired Location using above url.
 2.Open the TestProject.sln file From the Cloned Project.
-3.Configure the ConnectionString within the appsettings.json File.
+3.Configure the ConnectionString Only the Server, UID and Password within the appsettings.json File Not the Database .
 4.Open Package Manager Console and Enter the Following command in command Line Interface
 	i. update-migration Initial
 5.Open the StoreProcedureSQL Folder from the Cloned Project and Run the StoreProcedure.Sql file within the Newly Created Database Environment (i.e DatabaseName: TestProject).
