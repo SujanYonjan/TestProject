@@ -1,0 +1,13 @@
+D:\Core\InfoDev\TestProject\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.deps.json
+D:\Core\InfoDev\TestProject\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.runtimeconfig.json
+D:\Core\InfoDev\TestProject\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.runtimeconfig.dev.json
+D:\Core\InfoDev\TestProject\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.dll
+D:\Core\InfoDev\TestProject\TestProject.Core\bin\Debug\netcoreapp3.1\TestProject.Core.pdb
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.csproj.AssemblyReference.cache
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.AssemblyInfoInputs.cache
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.AssemblyInfo.cs
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.csproj.CoreCompileInputs.cache
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.dll
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.pdb
+D:\Core\InfoDev\TestProject\TestProject.Core\obj\Debug\netcoreapp3.1\TestProject.Core.genruntimeconfig.cache
